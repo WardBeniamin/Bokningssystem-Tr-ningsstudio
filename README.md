@@ -23,6 +23,15 @@ Detta projekt är en del av kursen i Objektorienterad Analys och Design. Syftet 
 ## 📄 Dokument
 [[Projektplan (PDF)](https://github.com/DITT-USERNAME/DITT-REPO/raw/main/Projektplan_Bokningssystem.pdf)](https://github.com/WardBeniamin/Bokningssystem-Tr-ningsstudio/blob/main/Projektplan_Bokningssystem.pdf)
 
+## 🖼️ UML Diagram
+
+### Klassdiagram
+![Klassdiagram][(https://github.com/DIN_ANVÄNDARNAMN/DIN_REPO/raw/main/uml_klassdiagram_bokningssystem.png)](https://github.com/WardBeniamin/Bokningssystem-Tr-ningsstudio/blob/main/uml_klassdiagram_bokningssystem.png)
+
+### Sekvensdiagram
+![Sekvensdiagram](https://github.com/DIN_ANVÄNDARNAMN/DIN_REPO/raw/main/sekvensdiagram_bokningssystem.png)
+
+
 
 ## 📋 Projektboard
 - [GitHub Project Board](LINK_TILL_DIN_PROJECT_BOARD)
