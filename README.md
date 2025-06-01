@@ -29,7 +29,7 @@ Detta projekt är en del av kursen i Objektorienterad Analys och Design. Syftet 
 ![Klassdiagram][(https://github.com/DIN_ANVÄNDARNAMN/DIN_REPO/raw/main/uml_klassdiagram_bokningssystem.png)](https://github.com/WardBeniamin/Bokningssystem-Tr-ningsstudio/blob/main/uml_klassdiagram_bokningssystem.png)
 
 ### Sekvensdiagram
-![Sekvensdiagram](https://github.com/DIN_ANVÄNDARNAMN/DIN_REPO/raw/main/sekvensdiagram_bokningssystem.png)
+[![Sekvensdiagram](https://github.com/DIN_ANVÄNDARNAMN/DIN_REPO/raw/main/sekvensdiagram_bokningssystem.png)](https://github.com/WardBeniamin/Bokningssystem-Tr-ningsstudio/blob/main/sekvensdiagram_bokningssystem.png)
 
 
 
