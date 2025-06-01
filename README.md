@@ -21,7 +21,7 @@ Detta projekt är en del av kursen i Objektorienterad Analys och Design. Syftet 
 - Markdown (README.md) för dokumentation.
 
 ## 📄 Dokument
-- [Projektplan (PDF)](file:///C:/Users/Wardb/Downloads/Projektplan_Bokningssystem.pdf)
+- [Projektplan (PDF)]file:///C:/Users/Wardb/Downloads/Projektplan_Bokningssystem.pdf
 
 ## 📋 Projektboard
 - [GitHub Project Board](LINK_TILL_DIN_PROJECT_BOARD)
