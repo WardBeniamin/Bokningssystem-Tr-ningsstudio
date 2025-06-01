@@ -21,7 +21,7 @@ Detta projekt är en del av kursen i Objektorienterad Analys och Design. Syftet 
 - Markdown (README.md) för dokumentation.
 
 ## 📄 Dokument
-[Projektplan (PDF)](https://github.com/DITT-USERNAME/DITT-REPO/raw/main/Projektplan_Bokningssystem.pdf)
+[[Projektplan (PDF)](https://github.com/DITT-USERNAME/DITT-REPO/raw/main/Projektplan_Bokningssystem.pdf)](https://github.com/WardBeniamin/Bokningssystem-Tr-ningsstudio/blob/main/Projektplan_Bokningssystem.pdf)
 
 
 ## 📋 Projektboard
